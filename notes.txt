@@ -1,0 +1,23 @@
+To Do:
+- Classes
+-- Main
+-- UI
+-- Media
+-- Movies (implements Media)
+-- Books (implements Media)
+-- CDs (implements Media)
+
+
+Functionality to implement:
+- Add media
+- Look up media individually
+-- Look up by genre
+-- Look up by author, director, artist
+-- Look up all by media type
+- Remove media
+- Choose random
+-- based on author, director, artist
+-- based on media type
+
+- Write to file (CSV for now, SQL in the future)
+- Read from file (CSV for now, SQL in the future)
