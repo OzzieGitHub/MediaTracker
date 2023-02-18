@@ -13,4 +13,12 @@
  ******/
 
 public class UserInterface {
+
+    public UserInterface () {
+
+    }
+
+    public void menu() {
+        System.out.println("Welcome to the Media Tracker, where you can track all your Books, CDs, and Movies.");
+    }
 }
