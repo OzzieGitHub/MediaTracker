@@ -1,3 +1,17 @@
+/******
+ *     License information: GNU General Public License v3.0
+ *     What the piece of code does.
+ *     Author: Chris Oswald
+ *     Related code:
+ *          Main.java
+ *          UserInterface.java
+ *          Media.java
+ *          Movie.java (implements Media.java)
+ *          Book.java (implements Media.java)
+ *     Sample wire representations of data structures.
+ *     TODOs.
+ ******/
+
 public class CD implements Media {
 
     @Override

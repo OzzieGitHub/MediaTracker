@@ -3,9 +3,11 @@
  *     What the piece of code does.
  *     Author: Chris Oswald
  *     Related code:
+ *          Main.java
  *          UserInterface.java
- *          Food.java
- *          Pizza.java (implements Food.java)
+ *          CD.java (implements Media.java)
+ *          Movie.java (implements Media.java)
+ *          Book.java (implements Media.java)
  *     Sample wire representations of data structures.
  *     TODOs.
  ******/
