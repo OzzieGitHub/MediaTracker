@@ -5,9 +5,9 @@
  *     Related code:
  *          UserInterface.java
  *          Media.java
- *          CD.java (implements Media.java)
- *          Movie.java (implements Media.java)
- *          Book.java (implements Media.java)
+ *          CD.java (extends Media.java)
+ *          Movie.java (extends Media.java)
+ *          Book.java (extends Media.java)
  *     Sample wire representations of data structures.
  *     TODOs.
  ******/

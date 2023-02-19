@@ -5,26 +5,13 @@
  *     Related code:
  *          Main.java
  *          UserInterface.java
- *          CD.java (implements Media.java)
- *          Movie.java (implements Media.java)
- *          Book.java (implements Media.java)
+ *          CD.java (extends Media.java)
+ *          Movie.java (extends Media.java)
+ *          Book.java (extends Media.java)
  *     Sample wire representations of data structures.
  *     TODOs.
  ******/
 
-
-public interface Media {
-    public void setTitle();
-    public void setYear();
-    public void setOwned();
-    public void setPhysicalOrDigital();
-    public void getTitle();
-    public void getYear();
-    public void getOwned();
-    public void getPhysicalOrDigital();
-    public void getRandom();
-    public void lookupTitle();
-    public void lookupByMediaType();
-    public void save();
+public class Media {
 
 }
